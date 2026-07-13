@@ -1,5 +1,5 @@
 # Apple Inc. Financial Intelligence Dashboard | Power BI, DAX, Power Query | 2025
-Designed and developed a 5-page interactive financial analysis dashboard for Apple Inc. (FY2019–FY2025) using Microsoft Power BI, modelling data across all three financial statements sourced from SimFin.
+Designed and developed a 5-page interactive financial analysis dashboard for Apple Inc. (FY2019–FY2025) using Microsoft Power BI, modelling data across all three financial statements sourced from Macrotrends.
 
 - Built a star schema data model connecting Income Statement, Balance Sheet, and Cash Flow fact tables to a Date dimension, with 20+ DAX measures covering profitability, liquidity, leverage, and efficiency ratios (Gross Margin%, Net Margin%, ROE, ROA, Current Ratio, Quick Ratio, D/E, FCF Margin%)
 
@@ -25,4 +25,13 @@ https://app.powerbi.com/links/QbQt48Bi73?ctid=014cc2fa-5014-43e5-bbdd-0cbe505529
 - ![Cash Flow](Screenshots/Screenshot%202026-07-13%20190937.png)
 ### Ratio Analysis
 - ![Ratio](Screenshots/Screenshot%202026-07-13%20190958.png)
+
+## Skills Demonstrated
+- Data Cleaning
+- Data Modeling
+- DAX
+- Data Visualization
+- Business Intelligence
+- Dashboard Design
+- Storytelling with Data
 
