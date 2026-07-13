@@ -16,13 +16,13 @@ https://app.powerbi.com/links/QbQt48Bi73?ctid=014cc2fa-5014-43e5-bbdd-0cbe505529
 
 ## Screenshots
 ### Executive Summary 
-- ![Executive Summary](images%20IPL%20Dashboard/Screenshot%202026-07-13%20165017.png)
+- ![Executive Summary](Screenshots/Screenshot%202026-07-13%20190841.png)
 ### Income Statement Analysis
-- ![Income Statement](images%20IPL%20Dashboard/Screenshot%202026-07-13%20165017.png)
+- ![Income Statement](Screenshots/Screenshot%202026-07-13%20190854.png)
 ### Balance sheet Analysis
-- ![Balance Sheet](images%20IPL%20Dashboard/Screenshot%202026-07-13%20165017.png)
+- ![Balance Sheet](Screenshots/Screenshot%202026-07-13%20190912.png)
 ### Cash Flow Analysis
-- ![Cash Flow](images%20IPL%20Dashboard/Screenshot%202026-07-13%20165017.png)
+- ![Cash Flow](Screenshots/Screenshot%202026-07-13%20190937.png)
 ### Ratio Analysis
-- ![Ratio](images%20IPL%20Dashboard/Screenshot%202026-07-13%20165017.png)
+- ![Ratio](Screenshots/Screenshot%202026-07-13%20190958.png)
 
